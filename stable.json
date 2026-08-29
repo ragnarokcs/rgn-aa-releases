@@ -1,14 +1,14 @@
 {
     "schema":  1,
     "channel":  "stable",
-    "version":  "1.2.0",
+    "version":  "1.3.0",
     "minimumVersion":  "1.1.0",
-    "publishedAtUtc":  "2026-08-23T23:58:33Z",
-    "url":  "https://github.com/ragnarokcs/rgn-aa-releases/releases/download/v1.2.0/RgnAA.exe",
-    "sha256":  "C3C38B8C249BF690BB4183DFB76B0C26EFC09939233A06903E8B18D9BCC01B36",
-    "length":  3751640,
+    "publishedAtUtc":  "2026-08-29T05:37:34Z",
+    "url":  "https://github.com/ragnarokcs/rgn-aa-releases/releases/download/v1.3.0/RgnAA.exe",
+    "sha256":  "524E655888E48F73AAB9E2F8107D7534AE5AD50CF426EF8FB76D1252B8205D62",
+    "length":  3706072,
     "authenticodeThumbprint":  "C7A6ADC3B479A6CC8445B25C8809EE2091987F2D",
     "mandatory":  false,
-    "releaseNotesUrl":  "https://github.com/ragnarokcs/rgn-aa-releases/releases/tag/v1.2.0",
-    "signature":  "WTx9auVL6ofHVgmbW6qWd1m1IbHkKDgKYUNnCwV+/HQMmJPXH5xCN/vbsymlxdH98vZ3MoTBW82W/sdWyQc839CMlMB1ctfBZszpKzJrcuurAfYOmhWq6vdSioVX/uLjEIjuqx/Di+CQXQ13nWtvL6/JEEStpWFPxRZH83PFLxFU2Uv1Dr8rl/CGAMMHW0Nz2oBpKg589dtVcMwWVrTcgO+mLa6mQIhMuXYyFas85GjIa9CUVbucP6pUr/PLyxepttAF22eV+Ax01Y7VVqAnAQ4sLH51zo/dgZHsvraprGVfu5r6RuDajyzso8P8zBQUYYIwuerXVSnoqc8Zk+JZbu0mi8gsQgSxFF5PZ13gv6dqdRLLbum0vd8PJwcMnp1c7FVWFn2iEoqr/4Lm1DX4bWYM2sV/iU1qu9eyv32Q6wyPtcnuC1VQUoOP6phhkusAZyB8bP2K82P23OHQ7FJ/eiFhKiIKi2QhvjYuVndxY4XzxkBqozwFPov2l5u2MlDQ"
+    "releaseNotesUrl":  "https://github.com/ragnarokcs/rgn-aa-releases/releases/tag/v1.3.0",
+    "signature":  "T7OUWQM7/ws3oY/Yh/aGuXHJUdcwtuUO3Y8pMrNMo8IHvSM69WnjpVKEATeGrhkxuO/YODUsDF8F2naT6vwVp8kSMTwUdot+KuXsMAYFP/5dqdeW2Y93LJP7b+HNdSBnfYiF0tQMSMv4ap/U+9bjYXagxAxixwX/UrpHlCn80MMpCJzFDtDKNSw48lJtGngLJylgXqRTpZbJmi5MOQU6ZaQPS0Nf7y1oNC7cEt9RmutWEur1Tg/RjRY4kDQNx0+6A+3qzR4wk1rLVeP3GIDXzHCp0Id5159Z8o8Y67/L/YBnvZGtK3QZkvGEMvfGqJLgphu6qTkItA1/ADZ9Tq3m3HmVArI2nz8GfTVu481dys58GVJNkYJ083REfZMixER5VzpFiSl8ht0S1KmfsFkpwWri8e0upGO7diqBo/o/i/303o3vE3PutFfzvnKaJ4zOag94AYcm3EZ/FJ0ZUF8cHhNfs71+n0+kRjgoWA7q4RJ/ci+V7AtGoatftnmDQPjx"
 }
